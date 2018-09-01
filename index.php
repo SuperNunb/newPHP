@@ -1,7 +1,8 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <?php echo hello>
+    <?php echo Hello World!;
+    ?>
   </head>
   <body>
     <p>Hello there, fellow earthling!</p>
